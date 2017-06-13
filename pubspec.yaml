@@ -1,0 +1,8 @@
+name: angel_pub_server
+dependencies:
+  angel_common: ^1.0.0
+  angel_hot: ^1.0.0-rc.1
+  angel_shelf: ^1.1.0
+  archive: ^1.0.0
+  pub_server: ^0.1.1
+  pubspec: ^0.0.14
